@@ -21,7 +21,6 @@ contract owned {
   }
 }
 
-
 //The license contract is an ERC-721 token (NFT)
    
 contract LicenseToken is owned {
